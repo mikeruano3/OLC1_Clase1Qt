@@ -1,0 +1,2 @@
+win_bison --no-lines --defines=parser.h --verbose --output=parser.cpp sintactico.yy
+win_flex --header-file=scanner.h -o scanner.cpp -v lexico.l

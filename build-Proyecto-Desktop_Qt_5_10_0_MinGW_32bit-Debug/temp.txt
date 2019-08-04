@@ -1,0 +1,5 @@
+si(9+1==8+2){
+imprimir("si");
+}sino{
+imprimir("no");
+}

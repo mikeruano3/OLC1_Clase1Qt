@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\si.o
+./debug\operacion.o
+./debug\nodo.o
+./debug\NodoAST.o
+./debug\parser.o
+./debug\scanner.o
+./debug\entorno.o
+./debug\objeto.o
+./debug\expresion.o
+./debug\imprimir.o
+./debug\listanodoast.o
+./debug\moc_mainwindow.o
+);

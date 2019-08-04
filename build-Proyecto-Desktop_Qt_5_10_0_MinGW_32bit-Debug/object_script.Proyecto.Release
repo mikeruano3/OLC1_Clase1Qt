@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\si.o
+./release\operacion.o
+./release\nodo.o
+./release\NodoAST.o
+./release\parser.o
+./release\scanner.o
+./release\entorno.o
+./release\objeto.o
+./release\expresion.o
+./release\imprimir.o
+./release\listanodoast.o
+./release\moc_mainwindow.o
+);
